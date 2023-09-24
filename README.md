@@ -30,4 +30,4 @@ La aplicación está hecha a base del problema dado por RocketCode, contiene una
                 - `app/`: Contiene los widgets globales de la aplicación
                 - `views/`: Contiene los widgets exclusivos de las vistas
 
-La aplicaicón es un chat tipo formulario, en el que tendrás que escribir cada dato, el cual se mostrará en un recuadro rosado y cuando completes todos los campos, darás a iniciar y mostrará tus datos que has rellenado.
+La aplicación es un chat tipo formulario, en el que tendrás que escribir cada dato, el cual se mostrará en un recuadro rosado y cuando completes todos los campos, darás a iniciar y mostrará tus datos que has rellenado.
