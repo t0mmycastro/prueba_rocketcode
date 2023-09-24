@@ -31,3 +31,9 @@ La aplicación está hecha a base del problema dado por RocketCode, contiene una
                 - `views/`: Contiene los widgets exclusivos de las vistas
 
 La aplicación es un chat tipo formulario, en el que tendrás que escribir cada dato, el cual se mostrará en un recuadro rosado y cuando completes todos los campos, darás a iniciar y mostrará tus datos que has rellenado.
+
+## Recomendación
+
+Se recomienda utilizar la aplicación en un emulador de Android Studio o de su mismo teléfono, la versión escritorio no es recomendable ya que no emula en verdad como sería la aplicación en un teléfono movil.
+
+Tomás Castro - Desarrollador
